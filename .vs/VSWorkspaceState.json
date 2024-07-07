@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ChessLogic\\Moves",
+    "\\ChessLogic\\Pieces",
+    "\\ChessUI"
+  ],
+  "SelectedNode": "\\ChessUI\\MainWindow.xaml.cs",
+  "PreviewInSolutionExplorer": false
+}
